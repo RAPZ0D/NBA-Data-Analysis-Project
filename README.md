@@ -1,3 +1,3 @@
-## NBA Data Analysis Project
-Hey My name is Joel Mendonsa and this is my Data Analytics project on the NBA data of 2019-2020 where I have performed advanced visualization using Tableau and Python 
+# NBA Data Analysis (2019-2020)
 
+This project presents an analysis of NBA data for the 2019-2020 season using Python for data manipulation and visualization, and Tableau for creating an interactive workbook.
