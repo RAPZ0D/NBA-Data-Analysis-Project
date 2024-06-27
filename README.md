@@ -12,7 +12,7 @@ The project is organized as follows:
 - **requirements.txt**: Lists the Python libraries required to run the scripts.
 - **project_folder/**: Contains two .zip files:
   - `NBA data 2019-20.csv.zip`: Contains the large CSV file.
-  - `python_and_tableau.zip`: Contains the Python scripts and Tableau workbook.
+  - `Python & Tableau.zip`: Contains the Python scripts and Tableau workbook.
 
 ## Libraries Used
 The Python scripts utilize the following libraries:
