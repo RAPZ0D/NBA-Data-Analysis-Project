@@ -15,3 +15,4 @@ The project is organized as follows:
   - `python_and_tableau.zip`: Contains the Python scripts and Tableau workbook.
 
 ## Libraries Used
+The Python scripts utilize the following libraries:
