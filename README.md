@@ -13,3 +13,5 @@ The project is organized as follows:
 - **project_folder/**: Contains two .zip files:
   - `data.zip`: Contains the large CSV file.
   - `python_and_tableau.zip`: Contains the Python scripts and Tableau workbook.
+
+## Libraries Used
