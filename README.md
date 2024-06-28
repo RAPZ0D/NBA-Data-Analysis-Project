@@ -16,3 +16,8 @@ The project is organized as follows:
 
 ## Libraries Used
 The Python scripts utilize the following libraries:
+- [pandas](https://pandas.pydata.org/): For data manipulation and analysis.
+- [bokeh](https://bokeh.org/): For creating interactive plots and dashboards.
+- [matplotlib](https://matplotlib.org/): For basic plotting and data visualization.
+- [seaborn](https://seaborn.pydata.org/): For statistical data visualization.
+- [plotly](https://plotly.com/python/): For creating interactive plots and visualizations.
