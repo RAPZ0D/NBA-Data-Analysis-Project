@@ -23,3 +23,5 @@ The Python scripts utilize the following libraries:
 - [plotly](https://plotly.com/python/): For creating interactive plots and visualizations.
 
 ## Getting Started
+
+To get a local copy up and running, follow these steps.
