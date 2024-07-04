@@ -22,3 +22,4 @@ The Python scripts utilize the following libraries:
 - [seaborn](https://seaborn.pydata.org/): For statistical data visualization.
 - [plotly](https://plotly.com/python/): For creating interactive plots and visualizations.
 
+## Getting Started
