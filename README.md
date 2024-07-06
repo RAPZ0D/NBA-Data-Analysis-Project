@@ -25,3 +25,10 @@ The Python scripts utilize the following libraries:
 ## Getting Started
 
 To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Python 3.x
+- Tableau Desktop
